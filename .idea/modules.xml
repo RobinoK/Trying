@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountVowels/CountVowels.iml" filepath="$PROJECT_DIR$/CountVowels/CountVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cvicebnice/Cvicebnice.iml" filepath="$PROJECT_DIR$/Cvicebnice/Cvicebnice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trying.iml" filepath="$PROJECT_DIR$/Trying.iml" />
     </modules>
   </component>
