@@ -25,13 +25,14 @@ public class Gui {
 
 
             pole = new JTextField("Zadej slovo");
+            pole.setHorizontalAlignment(JTextField.CENTER);
             pole.setPreferredSize(new Dimension(100,40));
             panel1.add(pole);
             tlacitko = new JButton("Odešli");
             panel2.add(tlacitko);
 
             frame.setVisible(true);
-            frame.setSize(400, 400);
+            frame.setSize(400, 200);
             frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
             frame.setLocationRelativeTo(null);
             //frame.pack();
